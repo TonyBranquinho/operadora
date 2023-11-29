@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\operadora\operadora\bin\Debug\operadora.exe.config
+C:\temp\ws-vs2019\operadora\operadora\bin\Debug\operadora.exe
+C:\temp\ws-vs2019\operadora\operadora\bin\Debug\operadora.pdb
+C:\temp\ws-vs2019\operadora\operadora\obj\Debug\operadora.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\operadora\operadora\obj\Debug\operadora.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\operadora\operadora\obj\Debug\operadora.exe
+C:\temp\ws-vs2019\operadora\operadora\obj\Debug\operadora.pdb
